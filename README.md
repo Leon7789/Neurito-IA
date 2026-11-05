@@ -122,12 +122,4 @@ Porque la precisión mide si la red imita las etiquetas de entrenamiento, no si 
 
 La prueba de la ventana de 20 a 26 lo muestra: obtuvo **96,80 % de precisión y 58 choques**. Por eso hay que revisar tanto la clasificación como el comportamiento real.
 
-## Conclusión
 
-El entrenamiento mejoró el comportamiento de Neurito. Con la configuración original, 500 épocas permitieron esquivar 74 obstáculos sin choques en la simulación. Las pruebas también mostraron que una buena precisión no basta: la regla usada para enseñar debe ser compatible con la física del juego.
-
-## Entrega en GitHub
-
-Rama preparada localmente: `pruebas-neurito-readme`.
-
-El envío al repositorio, la creación del pull request y el merge quedan pendientes de disponer del repositorio destino y del acceso a GitHub. Este documento no presenta esas acciones como realizadas ni incluye enlaces inventados.
